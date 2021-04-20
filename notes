@@ -1,0 +1,23 @@
+Deep Generative Models
+- what are Deterministic Generative Models
+- distributions: multivariate normal vs multi-modal, asymmetric
+- Change of Variables: Example: watch Video and think about intuition
+- Change of Variable Formula, deriviation of single number?
+- Jacobian?
+- go through Change of Variable Formula: Log Version for stacking
+- universality theorem?
+- Forward and Reverse Parametrization?
+- different flows: Planar/Radial flows, RealNVP, IAF, MAF (Autoregressive Flows), Spline
+- how are NF used in conjunction with eg NN?
+- write down formulas and contrast forward vs reverse
+- look for reverse parametrization examples of functions
+- Jacobian Determinant Computation
+- Jacobian: diagonal, triangular, full
+- https://arxiv.org/pdf/1912.02762.pdf
+- https://lilianweng.github.io/lil-log/2018/10/13/flow-based-deep-generative-models.html
+- http://akosiorek.github.io/ml/2018/04/03/norm_flows.html
+- https://blog.evjang.com/2018/01/nf1.html
+- https://deepgenerativemodels.github.io/notes/flow/
+- https://arxiv.org/pdf/1908.09257.pdf
+- https://www.youtube.com/watch?v=i7LjDvsLWCg
+
